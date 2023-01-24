@@ -1,0 +1,9 @@
+ARRIVE H Wendt 19 sleep_deprivation 2
+ARRIVE C.S. Student 19 coffee_overdose 6
+ARRIVE George Washington 47 everything 9 
+COUNT 
+NEXT
+TREAT
+NEXT
+TREAT
+COUNT
